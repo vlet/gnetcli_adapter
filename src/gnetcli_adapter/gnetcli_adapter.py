@@ -50,6 +50,7 @@ breed_to_device = {
     "h3c": "h3c",
     "vrp85": "huawei",
     "vrp55": "huawei",
+    "eltex": "eltex",
 }
 
 
